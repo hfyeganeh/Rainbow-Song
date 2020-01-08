@@ -1,0 +1,3 @@
+# Ignore .idea files - .gitignore
+.gitignore
+.idea/
